@@ -13,7 +13,7 @@ This project demonstrates how to use the OpenAI API to generate images using DAL
 
 1. *Clone the repository:*
    bash
-   git clone https://github.com/yourusername/openai-dalle-pil.git
+   git clone https://github.com/talhanuhuymaz/ImageGenerator.git
    cd openai-dalle-pil
    
 
