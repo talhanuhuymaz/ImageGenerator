@@ -14,7 +14,7 @@ This project demonstrates how to use the OpenAI API to generate images using DAL
 1. *Clone the repository:*
    bash
    git clone https://github.com/talhanuhuymaz/ImageGenerator.git
-   cd openai-dalle-pil
+   cd ImageGenerator
    
 
 2. *Install the required libraries:*
@@ -48,3 +48,11 @@ This project demonstrates how to use the OpenAI API to generate images using DAL
 2. *Generated Image:*
    The script will display an image of a futuristic cityscape at sunset.
 
+### Contributing
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+### License
+This project is licensed under the MIT License.
+
+
+Bu açıklamayı GitHub projenizin "Description" kısmına veya README dosyasına ekleyebilirsiniz.
